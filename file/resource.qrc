@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>test_result_1130.txt</file>
+        <file>2_test_result_1130.txt</file>
+    </qresource>
+</RCC>
